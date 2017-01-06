@@ -1,0 +1,32 @@
+.btn__submit {
+  background-color: #99e6ff;
+  color: gray;
+  padding: 8px;
+  display: table-cell;
+  margin-left: 2%;
+  width: 17%;
+}
+
+textarea {
+  float: left;
+  width: 80%;
+  height: 50px;
+}
+
+.comment-box {
+  overflow: hidden;
+  max-width: 924px;
+  margin: 20px auto;
+  width: 100%;
+}
+
+.comment-listing {
+  clear: both;
+  color: #666;
+  text-align: left;
+  border: 1px solid #ccc;
+  padding: 0 5px;
+  max-width: 924px;
+  margin: 20px auto;
+  width: 100%;
+}
